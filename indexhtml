@@ -10,7 +10,7 @@
     <header>ALURAFLIX</header>
 
     <section>
-        <div>
+        <div class="chamada-texto">
             <h1>PANICO 4 O FILME</h1>
             <p>#panico</p>
         </div>
