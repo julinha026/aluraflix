@@ -30,7 +30,9 @@
     <section>
         <h2> Filmes e séries</h2>
         <div>
+            <a href="https://www.youtube.com/watch?v=tvX2QnS0_jA">
             <img src="https://img.youtube.com/vi/tvX2QnS0_jA/maxresdefault.jpg" />
+        </a>
         </div>
     </section>
 
