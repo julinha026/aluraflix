@@ -1,7 +1,7 @@
 <html lang="pt-br">
 
 <head>
-    <link rel="stylesheet" href="style.css" /><link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="stylesheet" href="styles.css" /><link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
     <title>Aluraflix</title>
@@ -11,7 +11,7 @@
 
     <header>ALURAFLIX</header>
 
-    <section>
+    <section class="chamada">
         <div class="chamada-texto">
             <h1>PANICO 4 O FILME</h1>
             <p>#panico</p>
@@ -27,9 +27,9 @@
     </section>
 
 
-    <section>
+    <section class="categoria">
         <h2> Filmes e séries</h2>
-        <div>
+        <div class="categoria-videos">
             <a href="https://www.youtube.com/watch?v=tvX2QnS0_jA">
             <img src="https://img.youtube.com/vi/tvX2QnS0_jA/maxresdefault.jpg" />
         </a>
